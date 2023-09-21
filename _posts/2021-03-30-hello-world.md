@@ -24,5 +24,3 @@ int main(){
 }
 ```
 
-![QQ截图20230921122307](/../lxlovescoding.github.io/assets/blog_res/2021-03-30-hello-world.assets/QQ%E6%88%AA%E5%9B%BE20230921122307.jpg)
-
